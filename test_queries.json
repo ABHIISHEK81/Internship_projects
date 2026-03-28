@@ -1,0 +1,7 @@
+[
+  {
+    "type": "prereq_check",
+    "query": "Can I take CS301 after CS101?",
+    "expected": "Not eligible"
+  }
+]
